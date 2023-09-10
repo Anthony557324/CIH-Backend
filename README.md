@@ -1,7 +1,9 @@
 # CIH-Backend - 竞赛小助手后端
 
 <img src="./logo.png" width="100%"/>
+
 author:Anthony557
+
 ## 技术栈简介
 
 + [Egg.js](https://eggjs.org/zh-cn/)
